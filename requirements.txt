@@ -3,6 +3,6 @@ numpy
 scikit-learn
 streamlit
 mathlotlib
-altair<5
+altair < 5
 standard-imghdr
 pyarrow
